@@ -1,4 +1,4 @@
-> https://www.linkedin.com/in/yu-chung-cheng-b4457a128
+> [LinkedIn](https://www.linkedin.com/in/yu-chung-cheng-b4457a128)    
 > sunnyanthonycheng@gmail.com
 
 ## PROFILE
@@ -93,7 +93,8 @@ National Tsing Hua University
 	4. Functional Programming Principles in Scala
 
 
-
-Link:
-https://github.com/sunnyanthony
-https://medium.com/@sunnyanthonycheng https://hackmd.io/@BUfe3wJ9SPWtAsmrRE7P8A https://sunnyanthony.github.io
+Link:    
+- [GITHUB](https://github.com/sunnyanthony)    
+- [Medium](https://medium.com/@sunnyanthonycheng)    
+- [HACKMD](https://hackmd.io/@BUfe3wJ9SPWtAsmrRE7P8A)
+- [GITHUB.IO](https://sunnyanthony.github.io)
