@@ -25,7 +25,7 @@ A senior level Software Engineer with 4+ years of work experience on IOT protoco
 > RealTek Inc. 2020 Sep. - Present
 #### NB-IOT SDK | 2020 - Present
 * System Infrastructures
-  1. Design an efficient tiny data system that backups and restores data in sleep management and guaranteeing data completeness.
+    1. Design an efficient tiny data system that backups and restores data in sleep management and guaranteeing data completeness.
     2. Implement a port of sleep management in RealTek's boot- loader to manage the backup-memory.
     3. Enhance FreeRTOS to support sleep mode.
 * Tools
@@ -94,7 +94,7 @@ National Tsing Hua University
 
 
 Link:    
-- [GITHUB](https://github.com/sunnyanthony)    
+- [:octocat: GITHUB](https://github.com/sunnyanthony)    
 - [Medium](https://medium.com/@sunnyanthonycheng)    
 - [HACKMD](https://hackmd.io/@BUfe3wJ9SPWtAsmrRE7P8A)
 - [GITHUB.IO](https://sunnyanthony.github.io)
